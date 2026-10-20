@@ -70,27 +70,3 @@ Constitución, Empedrado, Cauquenes y San Javier:
 [Isidora Vidal Prieto] · Código bajo licencia MIT · Datos de MapBiomas bajo CC BY 4.0
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Los cambios se asocian al fuego, pero no demuestran causalidad.
-- La categoría "Oportunidad" requiere verificación en terreno.
-- MapBiomas Fuego cubre solo de Valparaíso a La Araucanía.
-
-## Autoría y licencia
-
-[Tu nombre] · Código bajo licencia MIT · Datos de MapBiomas bajo CC BY 4.0
