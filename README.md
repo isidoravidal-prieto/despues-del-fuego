@@ -2,7 +2,7 @@
 
 **Herramienta abierta para analizar qué pasa con el territorio después de un incendio en Chile: qué se quemó, qué se recupera, qué se convierte y dónde restaurar.**
 
-🌐 **App:**  [https://proyectos-508313.projects.earthengine.app/view/despues-del-fuego]
+🌐 **App:**  https://proyectos-508313.projects.earthengine.app/view/despues-del-fuego
 
 Construida con datos abiertos de MapBiomas Chile y Google Earth Engine, para que municipios, servicios públicos y organizaciones puedan responder en minutos preguntas que antes requerían semanas de trabajo SIG.
 
@@ -67,6 +67,6 @@ Constitución, Empedrado, Cauquenes y San Javier:
 
 ## Autoría y licencia
  
-[Isidora Vidal Prieto] · Código bajo licencia MIT · Datos de MapBiomas bajo CC BY 4.0
+Isidora Vidal Prieto · Código bajo licencia MIT · Datos de MapBiomas bajo CC BY 4.0
  
 
